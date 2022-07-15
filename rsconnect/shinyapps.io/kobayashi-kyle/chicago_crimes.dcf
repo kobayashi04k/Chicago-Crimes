@@ -1,0 +1,13 @@
+name: chicago_crimes
+title:
+username:
+account: kobayashi-kyle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4986390
+bundleId: 5192234
+url: https://kobayashi-kyle.shinyapps.io/chicago_crimes/
+when: 1635551699.36512
+lastSyncTime: 1635551699.36512
+asMultiple: FALSE
+asStatic: FALSE
